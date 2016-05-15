@@ -1,0 +1,13 @@
+# Auto detect text files and perform LF normalization
+
+* text=auto
+
+# LF normalization
+
+.editorconfig text
+.gitattributes text
+.gitignore text
+.gitkeep text
+*.go text
+*.md text
+*.txt text
